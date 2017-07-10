@@ -1,8 +1,8 @@
 export default function() {
 	return [
-		{ title: 'JS' },
-		{ title: 'HP' },
-		{ title: 'DT' },
-		{ title: 'ER' }
+		{ title: 'JS', pages: 54 },
+		{ title: 'HP', pages: 64 },
+		{ title: 'DT', pages: 32 },
+		{ title: 'ER', pages: 85 }
 	]
 }
